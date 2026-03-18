@@ -57,7 +57,7 @@ namespace CyberHookNumeroTimes
             ["8f375c43-11b7-4e9f-961b-5c1e5aa5b08a"] = 22.0f, // Ride
             ["18306c48-e10b-4d6c-8ab7-6fb52807fa88"] = 9.0f,  // La Grange
             ["85c6cc94-f7f5-49cb-b21c-3af066b22995"] = 16.0f, // Level Name
-            ["0b6479d4-6e47-47ad-b7da-264cfd13217b"] = 19.0f, // Klonk
+            ["0b6479d4-6e47-47ad-b7da-264cfd13217b"] = 17.0f, // Klonk
             ["9819b13b-c829-4f85-890f-703c93942cdb"] = 12.0f, // Lerap
             ["bb68bcd0-0940-4734-bdb1-1c30d779bd18"] = 38.0f, // Big Bank
             ["bc621e5f-5f7e-4382-b80d-0e26e4a92394"] = 30.0f, // Surf
@@ -85,7 +85,7 @@ namespace CyberHookNumeroTimes
             ["9bfa5240-249f-4947-a939-5892356dbe24"] = 7.0f,  // You're burning
             ["514a0a15-3edc-4aef-be57-00f59c7d238e"] = 12.0f, // Wall Jump
             ["6690fa3b-c3f1-458f-b41e-c7dfede61cf0"] = 5.0f,  // Mist
-            ["1155967a-6bc3-4fa3-b2b3-1dfec6e18853"] = 25.0f, // Master AirBender
+            ["1155967a-6bc3-4fa3-b2b3-1dfec6e18853"] = 24.0f, // Master AirBender
             ["0c97fc2b-e98d-4f8e-8568-0c463042f592"] = 13.0f, // Try Harder
             ["3e32ce15-0cef-4e16-8824-0397503f91dc"] = 15.0f, // Eazywi
             ["112d625a-e53a-4dce-a600-a6a407de248e"] = 17.0f, // The Game

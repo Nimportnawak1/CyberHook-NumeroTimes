@@ -2,7 +2,7 @@
 using HarmonyLib;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(CyberHookNumeroTimes.Main), "Cyber Hook Numero Times", "1.0.0", "Nimportnawak", null)]
+[assembly: MelonInfo(typeof(CyberHookNumeroTimes.Main), "Cyber Hook Numero Times", "1.0.1", "Nimportnawak", null)]
 [assembly: MelonGame("BlazingStick", "CyberHook")]
 
 namespace CyberHookNumeroTimes
