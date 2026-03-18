@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Nimportnawak1/CyberHook-NumeroTimes/blob/main/assets/numero_times_logo.png?raw=true" width=50%/>
+</p>
+
 # Numero Times
 **Numero Times** is a mod for the game [Cyber Hook](https://store.steampowered.com/app/1130410/Cyber_Hook). Ever felt like the 3-diamonds times were too easy sometimes?
 This mod adds Numero diamonds, which you can only obtain by going faster than ever!
